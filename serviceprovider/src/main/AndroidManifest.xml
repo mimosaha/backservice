@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.w3engineers.serviceprovider" >
+
+    <application>
+
+        <service android:name=".MyService" />
+
+    </application>
+
+</manifest>
