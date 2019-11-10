@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BackService</string>
+
+    <string name="code">Code %s</string>
+    <string name="available">Available %d</string>
+    <string name="price"> $%d</string>
 </resources>
